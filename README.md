@@ -3,18 +3,19 @@ and I make bash scripts for automating things!
 
 Languages I know:
 
-  
-  [![I know these](https://skillicons.dev/icons?i=css,js,html,css,php,java,bash,)](https://skillicons.dev)
+  [![I know these](https://skillicons.dev/icons?i=python,bash,html,php,css,js,java,cpp,sql,lua)](https://skillicons.dev)
 
 
 Languages I want to learn:
 
   
-  [![I want to learn these](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
+  XML
 
 
 Software I use:
 
+
+  [![I use these](https://skillicons.dev/icons?i=vscode,blender)](https://skillicons.dev)
 <!--
 **NiftyNarwhal11/NiftyNarwhal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
