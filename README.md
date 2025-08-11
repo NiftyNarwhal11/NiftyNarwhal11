@@ -3,7 +3,7 @@ and I make bash scripts for automating things!
 
 Languages I know:
 
-  [![I know these](https://skillicons.dev/icons?i=python,bash,html,php,css,js,java,cpp,sql,lua)](https://skillicons.dev)
+  [![I know these](https://skillicons.dev/icons?i=python,bash,html,php,css,js,java,cpp,lua)](https://skillicons.dev)
 
 
 Languages I want to learn:
