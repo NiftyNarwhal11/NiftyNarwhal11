@@ -19,8 +19,8 @@ Software I use:
   <br>
 GitHub Statistics
   <br>
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=NiftyNarwhal11&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiftyNarwhal11&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  ![Nifty's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiftyNarwhal11&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
+  ![Nifty's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=NiftyNarwhal11)
 <!--
 **NiftyNarwhal11/NiftyNarwhal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
