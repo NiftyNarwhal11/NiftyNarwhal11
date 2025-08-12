@@ -16,6 +16,11 @@ Software I use:
 
 
   [![I use these](https://skillicons.dev/icons?i=vscode,blender)](https://skillicons.dev)
+  <br>
+GitHub Statistics
+  <br>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=NiftyNarwhal11&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiftyNarwhal11&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 <!--
 **NiftyNarwhal11/NiftyNarwhal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
