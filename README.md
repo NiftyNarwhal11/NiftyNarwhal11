@@ -1,6 +1,6 @@
 ## Hi there 👋, I am NiftyNarwhal11
 and I make bash scripts for automating things!
-I ::heart:: Linux!
+I ♥️ Linux!
 Languages I know:
 
   [![I know these](https://skillicons.dev/icons?i=python,bash,html,php,css,js,java,cpp,lua)](https://skillicons.dev)
